@@ -42,7 +42,7 @@ const account5 = {
 
 const account6 = {
   owner: 'Vinthra Srinivas',
-  movements: [430, 1000000000, 700, 50, 90],
+  movements: [435, 1000000000, 760, 50, 90],
   interestRate: 1,
   pin: 2005,
 };
