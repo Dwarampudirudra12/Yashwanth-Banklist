@@ -34,7 +34,7 @@ const account4 = {
 };
 
 const account5 = {
-  owner: 'Lasya',
+  owner: 'Gandreti Satya Lasya Bharathi',
   movements: [430, 1000000000, 700, 50, 90],
   interestRate: 1,
   pin: 2005,
