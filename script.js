@@ -40,7 +40,7 @@ const account5 = {
   pin: 2005,
 };
 
-const accounts = [account1, account2, account3, account4];
+const accounts = [account1, account2, account3, account4, account5];
 
 // Elements
 const labelWelcome = document.querySelector('.welcome');
