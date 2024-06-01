@@ -40,7 +40,14 @@ const account5 = {
   pin: 2005,
 };
 
-const accounts = [account1, account2, account3, account4, account5];
+const account6 = {
+  owner: 'Vinthra Srinivas',
+  movements: [430, 1000000000, 700, 50, 90],
+  interestRate: 1,
+  pin: 2005,
+};
+
+const accounts = [account1, account2, account3, account4, account5, account6];
 
 // Elements
 const labelWelcome = document.querySelector('.welcome');
